@@ -9,9 +9,15 @@
         <transition name="flip">
           <p v-bind:key="card.flipped" 
             :class="['card', `card-${card.flipped}`]" 
-            :style="`background-color: ${bgColor[index % bgColor.length]}; ${card.flipped ? '' : `background-image: url('${card.image}')`}`">
+            :style="`background-color: ${card.flipped ? '#888' : card.color}; 
+                    ${card.flipped ? '' : `background-image: url('${card.image}')`}`">
               {{ card.flipped ? card.back : card.front }}
-              <span v-on:click="cards.splice(index, 1)" class="delete-card">X</span>
+              <!-- <span v-on:click="cards.splice(index, 1)" class="delete-card">X</span> -->
+              <br>
+              <br>
+              <span style="font-size: 20px; font-weight: 400;">
+                {{ card.flipped ? card.extra : '' }}
+              </span>
           </p>
         </transition>
       </li>

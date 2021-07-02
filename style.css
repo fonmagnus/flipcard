@@ -29,12 +29,12 @@ li {
   border-radius: 7px;
   margin: 5px;
   text-align: center;
-  line-height: 27px;
+  line-height: 32px;
   cursor: pointer;
   position: relative;
   color: #fff;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 24px;
   -webkit-box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
   -moz-box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
   box-shadow: 9px 10px 22px -8px rgba(209,193,209,.5);
