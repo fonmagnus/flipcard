@@ -1,0 +1,21 @@
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="flashcard-app" class="container">
+    <ul class="flashcard-list">
+      <li v-on:click="toggleCard(card)" v-for="(card, index) in cards">
+        <transition name="flip">
+          <p v-bind:key="card.flipped" 
+            :class="['card', `card-${card.flipped}`]" 
+            :style="`background-color: ${bgColor[index % bgColor.length]}; ${card.flipped ? '' : `background-image: url('${card.image}')`}`">
+              {{ card.flipped ? card.back : card.front }}
+              <span v-on:click="cards.splice(index, 1)" class="delete-card">X</span>
+          </p>
+        </transition>
+      </li>
+    </ul>
+  </div>
+  <script src="script.js"></script>
+</body>
