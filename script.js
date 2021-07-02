@@ -14,7 +14,7 @@ const cards = [
     },
     {
       front: 'Singa',
-      back: 'Status Relationship Kamu? (Single / In Relationship)',
+      back: 'Status Relationship Kamu?',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22222-lion-face-icon.png'
     },
