@@ -112,6 +112,56 @@ const cards = [
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22266-chicken-icon.png'
     },
+    {
+      front: 'Buaya',
+      back: 'Hal apa yang menjadi struggle dalam hidup kamu sekarang?',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22282-crocodile-icon.png'
+    },
+    {
+      front: 'Lumba Lumba',
+      back: 'Jika kamu diberi kesempatan untuk kembali ke masa lalu, hal apa yang mau kamu ubah?',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22292-dolphin-icon.png'
+    },
+    {
+      front: 'Kepiting',
+      back: 'Siapakah tokoh idola kamu di dalam Alkitab? Kenapa?',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22299-crab-icon.png'
+    },
+    {
+      front: 'Gurita',
+      back: 'WILDCARD',
+      extra: 'Kamu boleh menanyakan apapun pada temanmu',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22297-octopus-icon.png'
+    },
+    {
+      front: 'Kupu Kupu',
+      back: 'Harapan dalam hidup kamu yang belum terwujud?',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22304-butterfly-icon.png'
+    },
+    {
+      front: 'Lebah',
+      back: 'Bagaimana kamu memanage hidupmu selama pandemi ini?',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22307-honeybee-icon.png'
+    },
+    {
+      front: 'Hiu',
+      back: 'Ceritakan salah satu suka / duka yang berkesan selama pelayanan',
+      flipped: false,
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22296-shark-icon.png'
+    },
+    {
+      front: 'Naga',
+      back: 'TRAP',
+      flipped: false,
+      extra: 'Salah seorang mentor akan menanyai kamu.',
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22287-dragon-icon.png'
+    },
 ]; 
 
 new Vue ({
