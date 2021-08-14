@@ -2,7 +2,7 @@
 const cards = [
     {
       front: 'Anjing',
-      back: 'Sebutkan Makanan Favorit Kamu',
+      back: 'Tirukan suara hewan kesukaanmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22214-dog-face-icon.png'
     },
@@ -161,6 +161,34 @@ const cards = [
       flipped: false,
       extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22287-dragon-icon.png'
+    },
+    {
+      front: 'Jerapah',
+      back: 'TRAP',
+      flipped: false,
+      extra: 'Salah seorang mentor akan menanyai kamu.',
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22245-giraffe-icon.png'
+    },
+    {
+      front: 'Penguin',
+      back: 'TRAP',
+      flipped: false,
+      extra: 'Salah seorang mentor akan menanyai kamu.',
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22272-penguin-icon.png'
+    },
+    {
+      front: 'Landak',
+      back: 'TRAP',
+      flipped: false,
+      extra: 'Salah seorang mentor akan menanyai kamu.',
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22257-hedgehog-icon.png'
+    },
+    {
+      front: 'Rubah',
+      back: 'TRAP',
+      flipped: false,
+      extra: 'Salah seorang mentor akan menanyai kamu.',
+      image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22218-fox-face-icon.png'
     },
 ]; 
 
