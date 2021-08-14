@@ -8,186 +8,176 @@ const cards = [
     },
     {
       front: 'Kucing',
-      back: 'Sekolah / Bekerja / Kuliah dimana kamu?',
+      back: 'Tunjukkan senyum termanismu 🙂',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22220-cat-face-icon.png'
     },
     {
       front: 'Singa',
-      back: 'Status Relationship Kamu?',
+      back: 'Katakan “Aku Suka Sekolah Minggu” dengan mulut tertutup',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22222-lion-face-icon.png'
     },
     {
       front: 'Macan',
-      back: 'Sebutkan kriteria pacar idaman kamu',
+      back: 'Peragakan hobimu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22223-tiger-face-icon.png'
     },
     {
       front: 'Monyet',
-      back: 'Apa sih harapan terbesar dalam hidup kamu?',
+      back: 'Ambil barang yang warnanya sama dengan warna favoritmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22211-monkey-face-icon.png'
     },
     {
       front: 'Kuda',
-      back: 'Apa passion kamu?',
+      back: 'Sebutkan nama 3 jenis bunga',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22226-horse-face-icon.png'
     },
     {
       front: 'Sapi',
-      back: 'WILDCARD',
-      extra: 'Kamu boleh menanyakan apapun pada temanmu',
+      back: 'Eja nama panggilanmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22231-cow-face-icon.png'
     },
     {
       front: 'Babi',
-      back: 'TRAP',
-      extra: 'Salah seorang mentor akan menanyai kamu.',
+      back: 'Buatlah tanda salib',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22235-pig-face-icon.png'
     },
     {
       front: 'Hamster',
-      back: 'Ayat Alkitab yang paling menjadi pegangan kamu?',
+      back: 'Peragakan ekspresi yang tidak kamu sukai',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22252-hamster-face-icon.png'
     },
     {
       front: 'Panda',
-      back: 'Siapa tokoh idola kamu?',
+      back: 'Tirukan gerakan hewan favoritmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22261-panda-face-icon.png'
     },
     {
       front: 'Kelinci',
-      back: '3 sifat dalam dirimu yang paling khas',
+      back: 'Ambil mainan favoritmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22254-rabbit-icon.png'
     },
     {
       front: 'Koala',
-      back: '3 kekurangan dalam dirimu',
+      back: 'Tunjukkan pose & ekspresi foto terbaikmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22260-koala-icon.png'
     },
     {
       front: 'Tikus',
-      back: '3 kelebihan dalam dirimu',
+      back: 'Apa makanan favoritmu?',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22250-mouse-icon.png'
     },
     {
       front: 'Gajah',
-      back: 'Hal yang paling kamu takuti',
+      back: 'Tunjukkan mata, hidung, mulut, dan telingamu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22246-elephant-icon.png'
     },
     {
       front: 'Badak',
-      back: 'Teman yang baik itu teman yang seperti apa?',
+      back: 'Tunjukkan angka dua dengan jarimu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22247-rhinoceros-icon.png'
     },
     {
       front: 'Domba',
-      back: 'Genre film kesukaan kamu',
+      back: 'Peragakan cita-citamu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22240-ewe-icon.png'
     },
     {
       front: 'Zebra',
-      back: 'WILDCARD',
-      extra: 'Kamu boleh menanyakan apapun pada temanmu',
+      back: 'Beri tahu kami tempat dan tanggal lahirmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22229-zebra-icon.png'
     },
     {
       front: 'Ayam',
-      back: 'TRAP',
-      extra: 'Salah seorang mentor akan menanyai kamu.',
+      back: 'Hal apa yang paling kamu takuti?',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/512/22266-chicken-icon.png'
     },
     {
       front: 'Buaya',
-      back: 'Hal apa yang menjadi struggle dalam hidup kamu sekarang?',
+      back: 'Ada berapa orang di rumahmu?',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22282-crocodile-icon.png'
     },
     {
       front: 'Lumba Lumba',
-      back: 'Jika kamu diberi kesempatan untuk kembali ke masa lalu, hal apa yang mau kamu ubah?',
+      back: 'Ambil satu pensil warna yang menjadi warna favoritmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22292-dolphin-icon.png'
     },
     {
       front: 'Kepiting',
-      back: 'Siapakah tokoh idola kamu di dalam Alkitab? Kenapa?',
+      back: 'Apa minuman favoritmu?',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22299-crab-icon.png'
     },
     {
       front: 'Gurita',
-      back: 'WILDCARD',
-      extra: 'Kamu boleh menanyakan apapun pada temanmu',
+      back: 'Sebutkan 3 nama hewan yang bisa terbang',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22297-octopus-icon.png'
     },
     {
       front: 'Kupu Kupu',
-      back: 'Harapan dalam hidup kamu yang belum terwujud?',
+      back: 'Senandungkan lagu favoritmu',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22304-butterfly-icon.png'
     },
     {
       front: 'Lebah',
-      back: 'Bagaimana kamu memanage hidupmu selama pandemi ini?',
+      back: 'Tiru & bunyikan suara kereta api “tutt tutt tutt”',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22307-honeybee-icon.png'
     },
     {
       front: 'Hiu',
-      back: 'Ceritakan salah satu suka / duka yang berkesan selama pelayanan',
+      back: 'Sebutkan nama 3 hewan yang hidup di air',
       flipped: false,
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22296-shark-icon.png'
     },
     {
       front: 'Naga',
-      back: 'TRAP',
+      back: 'Apa film favoritmu?',
       flipped: false,
-      extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22287-dragon-icon.png'
     },
     {
       front: 'Jerapah',
-      back: 'TRAP',
+      back: 'Nyanyikan satu lagu sekolah minggu yang kamu ketahui',
       flipped: false,
-      extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22245-giraffe-icon.png'
     },
     {
       front: 'Penguin',
-      back: 'TRAP',
+      back: 'Sebutkan tiga nama kakak pendamping BIA HSPMTB',
       flipped: false,
-      extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22272-penguin-icon.png'
     },
     {
       front: 'Landak',
-      back: 'TRAP',
+      back: 'Katakan “Aku Siap Sekolah Minggu” dengan semangat',
       flipped: false,
-      extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22257-hedgehog-icon.png'
     },
     {
       front: 'Rubah',
-      back: 'TRAP',
+      back: 'Lakukan tepuk Yesus',
       flipped: false,
-      extra: 'Salah seorang mentor akan menanyai kamu.',
       image: 'https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22218-fox-face-icon.png'
     },
 ]; 
